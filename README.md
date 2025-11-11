@@ -1,13 +1,10 @@
-Title:miss
-Full Name:Latha tr
+Title:Miss
+Full Name:Latha
 USN:1WT24IS004
-semester:third
-section:A
-subject Name:Project Management with GIT
-subject code:BCS358C	
-Academic Year:2024-25
-Mobile No:9741867529
-Email ID:Latha tr.gce@gmail.com
-
-
-  
+Semester:Third
+Section:A
+Subject Name:Project Management With GIT
+Subject Code:BCS358C
+Academic Year:2025-2026
+Mobile:9741867592
+Email ID:Latha.gce@gmail.com
