@@ -1,0 +1,8 @@
+Title:Miss
+Full Name:Latha
+USN:1WT24IS004
+Semester:Third
+Section:A
+Branch:Information Science
+Year of Admission:2024
+Collage Name:GITW
