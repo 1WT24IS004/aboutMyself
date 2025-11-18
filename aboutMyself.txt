@@ -5,4 +5,4 @@ Semester:Third
 Section:A
 Branch:Information Science
 Year of Admission:2024
-Collage Name:GITW
+College Name:Ghousia Institute Of Technology For Women
