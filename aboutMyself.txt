@@ -8,7 +8,7 @@ Year of Admission:2024
 College Name:Ghousia Institute Of Technology For Women
 SSLC:Morarji Desai Residental School
 PUC:Morarji Desai Residental Pu Science  College
-UG Degree:B.E-ISE
+UG Degree: Second Year B.E-Information Science
 
 
 
