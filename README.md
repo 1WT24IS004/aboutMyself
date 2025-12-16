@@ -8,7 +8,4 @@ Subject Code:BCS358C
 Academic Year:2025-2026
 Mobile:9741867592
 Email ID:Latha.gce@gmail.com
-<<<<<<< HEAD
 My date of Joining to GITW:24 sep-2024
-=======
->>>>>>> 60ac777 (Added README.md file with basic data successfully)
